@@ -42,6 +42,4 @@ studentRoll()
 	.catch((rejectedOutput) => {
 		console.log(rejectedOutput);
 	})
-	.catch((rejectFromStuBioData) => {
-		console.log(rejectFromStuBioData);
-	});
+	
